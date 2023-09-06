@@ -1,11 +1,12 @@
 # Useful Python Scripts
 
-This repository contains a collection of Python scripts that I've created to automate some of my day-to-day tasks. These scripts are designed to simplify various processes and can be helpful for a wide range of purposes.
+- This repository contains a collection of Python scripts that I've created to automate some of my day-to-day tasks. These scripts are designed to simplify various processes and can be helpful for a wide range of purposes.
 
 ## Directory Structure
 
-The scripts are organized in a `scripts` directory within this repository. Here is the directory structure:
+- The scripts are organized in a `scripts` directory within this repository. Here is the directory structure:
 
+```
 useful-python-scripts/
 ├── scripts/
 │   ├── file_renamer.py
@@ -14,6 +15,7 @@ useful-python-scripts/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+```
 
 You can find each script inside the `scripts` directory.
 
